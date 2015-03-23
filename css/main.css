@@ -1,0 +1,86 @@
+/***********
+GENERAL
+************/
+
+body {
+  font-family: 'Arbutus Slab', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+#wrapper {
+  max-width: 940 px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
+#main {
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 1.75em;
+  margin: 15px 0;
+  font-weight: normal;
+}
+
+/* links */
+a {
+  color: #01a9d4;
+}
+
+/* blue header */
+header {
+  background-color: #01a9d4;
+  border-color: #ffbb33;
+}
+
+h1 {
+  color: #fff;
+}
+
+/***********
+NAVIGATION
+***********/
+
+nav {
+  text-align: center;
+  padding: 10px 0;
+  margin: 20px 0 0;
+}
+
+/**********
+FOOTER
+**********/
+
+footer {
+  font-size: 0.75em;
+  text-align: center;
+  padding-top: 50px;
+  color: #fff;
+}
+
+/* nav background on mobile */
+nav {
+  background: #0095b6;
+}
+
+/* nav link */
+nav a, nav a:visited {
+  color: #fff;
+}
+
+/* music nav link */
+nav a.music, nav a:hover {
+  color: #ccccff;
+}
+
+/* site body */
+body {
+  background-color: #b2beb5;
+  color: #fff;
+}
